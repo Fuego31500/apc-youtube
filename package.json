@@ -227,7 +227,7 @@
     "semver": "^5.5.0",
     "shebang-command": "^1.2.0",
     "shebang-regex": "^1.0.0",
-    "shelljs": "^0.6.1",
+    "shelljs": "^0.8.4",
     "signal-exit": "^3.0.2",
     "slice-ansi": "^1.0.0",
     "spdx-correct": "^3.0.0",
