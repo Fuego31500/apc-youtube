@@ -240,7 +240,7 @@
     "strip-ansi": "^3.0.1",
     "strip-bom": "^3.0.0",
     "strip-json-comments": "^2.0.1",
-    "stryker": "^0.25.1",
+    "stryker": "^0.35.1",
     "supports-color": "^2.0.0",
     "table": "^4.0.3",
     "text-table": "^0.2.0",
