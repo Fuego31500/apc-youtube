@@ -158,7 +158,7 @@
     "jsonfile": "^3.0.1",
     "jsonify": "^0.0.0",
     "jsonpointer": "^4.0.1",
-    "known-css-properties": "^0.3.0",
+    "known-css-properties": "^0.24.0",
     "levn": "^0.3.0",
     "load-json-file": "^2.0.0",
     "locate-path": "^2.0.0",
